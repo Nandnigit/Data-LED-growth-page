@@ -62,35 +62,13 @@
     background-color: #fff;
     color: black;
 }
-<<<<<<< HEAD
 @media (max-width:991px){
     .row11, .row2, .row3{
         width: 100%;
         padding: 0;
-=======
-#lf2,#lf3,#lf4,#lf5,#lt1,#lt2,#lt3,#lt4,#lt5{
-    background-color: rgb(54, 53, 53);
-}
+    }
 .last_second_row{
     width:100%;
     height:auto;
 }
-@media only screen and (max-width: 768px) {
-    
-    .last {
-        margin: 0 auto;
-        display: flex;
->>>>>>> e7bd46f1234e5aa26b0a1e41f4b6bbf0952605e6
-        flex-direction: column;
-    }
-    .last_first_row{
-        width: 90%;
-    }
-    .last_second_row{
-        width: 90%;
-    }
-    .last_third_row{
-        width: 90%;
-    }
-    
 }

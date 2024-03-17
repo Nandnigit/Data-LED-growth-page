@@ -10,12 +10,7 @@ function Datavideopart(){
         <div className="last_first_row" id="lf3">Tech Stack for PMs</div>
         <div className="last_first_row" id="lf4">Decision Making</div>
         <div className="last_first_row" id="lf5">Growth Analytics</div>
-<<<<<<< HEAD
           </div>
-=======
-        <img src= "https://assets-global.website-files.com/63a49822ee2304acc9455a42/6576b869ee103575f79617cd_rajnish%20(2).png" className='last_second_row'/>
-        
->>>>>>> e7bd46f1234e5aa26b0a1e41f4b6bbf0952605e6
         
         <div className="row2">
         <div className='last_second_row' ><img src= "https://assets-global.website-files.com/63a49822ee2304acc9455a42/6576b869ee103575f79617cd_rajnish%20(2).png"/></div>
