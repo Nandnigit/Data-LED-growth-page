@@ -4,6 +4,7 @@ import './DataLedpart4.css'
 function DataLedpart4(){
     return(
         <>
+        <div className="part4-container">
         <h1>How to become a member?</h1>
         <h3>We have a simple 3-step process</h3>
         
@@ -15,6 +16,7 @@ function DataLedpart4(){
                 </p><img src= "https://assets-global.website-files.com/63a49822ee2304acc9455a42/65e8b36e4fcb1a728cdf7a4d_Rectangle.png"  className="image4"/></div>
         </div>
         <button className="Lastbtn">Start your Application</button>
+        </div>
         </>
     )
 }

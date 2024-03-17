@@ -4,6 +4,7 @@ import './DataLedpart3.css'
 function DataLedpart3(){
     return(
         <>
+        <div className="part3-container">
         <h1>Scheduled Dates</h1>
         <div className="thirdpart">
             <div className="thirdpart1">Day 1: 23rd March, 11AM </div>
@@ -26,6 +27,7 @@ function DataLedpart3(){
             <br></br>
             <button className="btn3">Get this template</button>
         </form>
+        </div>
         </div>
         </div>
         </>
