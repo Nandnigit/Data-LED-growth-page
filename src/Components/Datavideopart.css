@@ -36,7 +36,6 @@ body{
     background-color: rgb(54, 53, 53);
 }
 .last_second_row{
-    border-radius: 10px;
     width:100%;
     height:auto;
 }
@@ -49,4 +48,5 @@ body{
         width:100%;
         height:auto;
     }
+    
 }

@@ -9,8 +9,8 @@ function Datavideopart(){
         <div className="last_first_row" id="lf3">Tech Stack for PMs</div>
         <div className="last_first_row" id="lf4">Decision Making</div>
         <div className="last_first_row" id="lf5">Growth Analytics</div>
-        <div className='last_second_row' ><img src= "https://assets-global.website-files.com/63a49822ee2304acc9455a42/6576b869ee103575f79617cd_rajnish%20(2).png"/></div>
-        <div className='last_second_row' ><img src= "https://assets-global.website-files.com/63a49822ee2304acc9455a42/6576b869ee103575f79617cd_rajnish%20(2).png"/></div>
+        <img src= "https://assets-global.website-files.com/63a49822ee2304acc9455a42/6576b869ee103575f79617cd_rajnish%20(2).png" className='last_second_row'/>
+        
         
         <div className="last_third_row" id="lt1">OKR Design</div>
         <div className="last_third_row" id="lt2">Thesis Building</div>
