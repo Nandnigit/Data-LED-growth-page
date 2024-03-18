@@ -28,13 +28,11 @@
     width: 100%;
 }
 .box-svg{
-    height: 100px;
-    width: 100%;
+    
+    width: 20%;
 }
 .span-box {
     grid-row: span 2;
-    /* gap: 1rem; */
-    /* background-color: lightblue; */
 }
 ul{
     width: 100%;

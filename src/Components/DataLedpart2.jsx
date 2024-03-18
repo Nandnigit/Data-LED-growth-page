@@ -29,9 +29,6 @@ function DataLedpart2() {
                 <h3>Run experiments like</h3>
             <img src= "https://assets-global.website-files.com/63a49822ee2304acc9455a42/65e8a631c62eb162d9fbce84_Logos%20DLG.png" className='imagerow2'/>
                 </div>
-                {/* <div className="box">
-
-                </div> */}
                 <div className="box">
                 <img src= "https://assets-global.website-files.com/63a49822ee2304acc9455a42/65ec45e2f739f0aa88386b75_Pass.svg" 
                 className='box-svg'
